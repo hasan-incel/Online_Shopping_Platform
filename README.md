@@ -99,18 +99,4 @@ This project is built with the following requirements:
   - `ProductId` (int, Foreign Key to Product)
   - `Quantity` (int)
 
-## Getting Started
-
-### Prerequisites
-
-- .NET SDK (version 6.0 or later)
-- A relational database (SQL Server, PostgreSQL, MySQL, etc.)
-- Visual Studio or Visual Studio Code
-
-### Setup Instructions
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/OnlineShoppingPlatform.git
-   cd OnlineShoppingPlatform
+![image](https://github.com/user-attachments/assets/6889d42c-e668-45e9-8c5b-e3f8722abf0e)
